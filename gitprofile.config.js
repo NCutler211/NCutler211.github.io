@@ -12,9 +12,6 @@ const config = {
   },
   social: {
     linkedin: 'natecutler',
-    mastodon: 'NCutler211@mastodon.social',
-    medium: 'NCutler211',
-    dev: 'NCutler211',
     email: 'ncutler211@gmail.com',
   },
   resume: {
@@ -65,11 +62,12 @@ const config = {
       title: 'Project Radiance',
       description:
         'Publicly available aggregation of global ambient radiation measurements hosted through AWS Cloud and produced utilizing Python, R, Tableau, & PowerBI',
-      imageUrl: 'https://github.com/NCutler211/portfolio_be/blob/main/images/Poster_Second_Draft_Version_2.png?raw=true',
+      imageUrl: 'https://github.com/NCutler211/portfolio_be/blob/1394a14b5272d2038be193e94d028ba5a021685d/images/Poster_Second_Draft_Version_2.png',
       link: 'https://github.com/dessak/ISTA498-Capstone',
     }
   ],
   // Display blog posts from your medium or dev account. (Optional)
+  /*
   blog: {
     source: 'dev', // medium | dev
     username: 'NCutler211', // to hide blog section, keep it empty
@@ -83,6 +81,7 @@ const config = {
     id: '',
     snippetVersion: 6,
   },
+  */
   themeConfig: {
     defaultTheme: 'corporate',
 

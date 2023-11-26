@@ -19,7 +19,7 @@ const config = {
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://github.com/NCutler211/portfolio_be/blob/1394a14b5272d2038be193e94d028ba5a021685d/Nathaniel%20Cutler%20Resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Python',
@@ -65,12 +65,12 @@ const config = {
       title: 'Project Radiance',
       description:
         'Publicly available aggregation of global ambient radiation measurements hosted through AWS Cloud and produced utilizing Python, R, Tableau, & PowerBI',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+      imageUrl: 'https://github.com/NCutler211/portfolio_be/blob/main/images/Poster_Second_Draft_Version_2.png?raw=true',
+      link: 'https://github.com/dessak/ISTA498-Capstone',
     }
   ],
   // Display blog posts from your medium or dev account. (Optional)
-  /*blog: {
+  blog: {
     source: 'dev', // medium | dev
     username: 'NCutler211', // to hide blog section, keep it empty
     limit: 2, // How many posts to display. Max is 10.
@@ -84,8 +84,8 @@ const config = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'wireframe',
-    */
+    defaultTheme: 'corporate',
+
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
